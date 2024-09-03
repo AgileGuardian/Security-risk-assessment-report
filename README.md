@@ -28,5 +28,7 @@ The cybersecurity analyst utilized various tools and frameworks to conduct the a
 
 ## Steps
 ![Screen Shot 2024-09-02 at 12 30 11 PM](https://github.com/user-attachments/assets/92242d28-7de0-4d85-a4a2-69058c6adeaa)
-![Screen Shot 2024-09-02 at 12 30 54 PM](https://github.com/user-attachments/assets/44b7f370-06fa-4521-9088-7f2231cfc536)
+![Screen Shot 2024-09-03 at 4 24 04 AM](https://github.com/user-attachments/assets/0e16f25e-3f8a-4a6a-8584-1aea81da3d15)
+
+
 
